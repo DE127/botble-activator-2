@@ -1,0 +1,10 @@
+{
+    "id": "shaqi/botble-activator",
+    "name": "Botble Activator",
+    "namespace": "Shaqi\\BotbleActivator\\",
+    "provider": "Shaqi\\BotbleActivator\\Providers\\ShaqiActivatorProvider",
+    "author": "Ishtiaq Ahmed",
+    "url": "https://github.com/rajaishtiaq6/botble-activator",
+    "version": "1.0.0",
+    "description": "Botble CMS Activator"
+}
