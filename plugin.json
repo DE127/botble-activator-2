@@ -5,6 +5,6 @@
     "provider": "Shaqi\\BotbleActivator\\Providers\\ShaqiActivatorProvider",
     "author": "Ishtiaq Ahmed",
     "url": "https://github.com/rajaishtiaq6/botble-activator",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "Botble CMS Activator"
 }
