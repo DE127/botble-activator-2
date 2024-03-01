@@ -15,6 +15,10 @@ This plugin helps you activate the license of the Botble.
 3. Make sure your folder name is  `botble-activator`, maybe you need to rename your folder from `botble-activator-1.0.0` to `botble-activator`
 4. Go to **Admin** > **Plugins** and click on the **Activate** button.
 
+### Video
+
+ https://screenrec.com/share/juTwU4D8Ot
+
 ### Changelog
 
 Please see [CHANGELOG](CHANGELOG.md) for recent changes.
